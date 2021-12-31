@@ -1,0 +1,20 @@
+{
+  "name": "chilltify",
+  "version": "1.0.0",
+  "description": "music aplication for Diana Sessions from Riot Games Music ",
+  "main": "server.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [],
+  "author": "LwnaDev",
+  "license": "MIT",
+  "dependencies": {
+    "animate.css": "^4.1.1",
+    "electron": "^8.5.5",
+    "electron-reload": "^1.5.0"
+  },
+  "devDependencies": {
+    "electron-packager": "^15.4.0"
+  }
+}
